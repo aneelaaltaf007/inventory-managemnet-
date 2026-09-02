@@ -1,1 +1,1 @@
-# inventory-managemnet-
+# inventory-managemnet
