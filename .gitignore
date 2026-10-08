@@ -1,9 +1,5 @@
+# API secrets
 **/.streamlit/secrets.toml
-**/.streamlit/secrets.toml
-.env
-secrets.toml
-users.json
-user_data.json
-*.db
-__pycache__/
-*.pyc
+streamlit/10_dall-e-3/image_studio.db
+streamlit/10_dall-e-3/user_data.json
+streamlit/10_dall-e-3/users.json
